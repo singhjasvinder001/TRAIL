@@ -1,4 +1,4 @@
-# trail
+# TRAIL
 
 **Your developer activity trail — never lose your context again.**
 
